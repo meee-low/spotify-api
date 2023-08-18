@@ -1,0 +1,11 @@
+__pycache__
+spotipy_secrets.py
+secret_keys.py
+personal.py
+.cache
+asdfasdf.json
+*.log
+*.bat
+*.ipynb
+spotify_secrets.py
+test_recover.py
