@@ -1,4 +1,5 @@
 __pycache__
+*__pycache__*
 spotipy_secrets.py
 secret_keys.py
 personal.py
@@ -9,3 +10,5 @@ asdfasdf.json
 *.ipynb
 spotify_secrets.py
 test_recover.py
+last_ran.txt
+linux_run.sh

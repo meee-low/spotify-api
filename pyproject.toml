@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "spotify-api"
+version = "0.1.0"
+description = ""
+authors = ["Matheus Ferreira Drumond <30362944+meee-low@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+spotipy = "^2.23.0"
+requests = "^2.31.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
